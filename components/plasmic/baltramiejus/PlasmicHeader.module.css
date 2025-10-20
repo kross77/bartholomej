@@ -1,0 +1,99 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.group24 {
+  width: 338px;
+  height: 269px;
+  display: block;
+  flex-shrink: 0;
+}
+.text__bdrB5 {
+  display: block;
+  font-size: 40px;
+  font-family: "DIN Condensed";
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: var(--token-vKkwwCLpM);
+  position: absolute;
+  top: 187px;
+  left: 0px;
+  transform: translate(0px, -0.2560000000000002px);
+}
+.text___3U1Jt {
+  display: block;
+  font-size: 25px;
+  font-family: "DIN 2014 Rounded VF";
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: var(--token-vKkwwCLpM);
+  position: absolute;
+  top: 104px;
+  left: 1px;
+  transform: translate(0px, 0.3930000000000007px);
+}
+.frame1 {
+  transform: translate(0px, 0.3930000000000007px);
+  width: 270px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 128px;
+  left: 1px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 64px;
+}
+.святогаапостала {
+  display: block;
+  font-size: 25px;
+  font-family: "DIN 2014 Rounded VF";
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: var(--token-vKkwwCLpM);
+  position: relative;
+}
+.frame2 {
+  transform: translate(0px, -0.21299999999999386px);
+  width: 270px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 239px;
+  left: 1px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 64px;
+}
+.vilniusUzupioG17A {
+  display: block;
+  font-size: 25px;
+  font-family: "DIN 2014 Rounded VF";
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: var(--token-vKkwwCLpM);
+  position: relative;
+}
+.svg {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: var(--token-vKkwwCLpM);
+  width: 153.404px;
+  height: 268.787px;
+  display: block;
+  top: 0px;
+  left: 184px;
+}
